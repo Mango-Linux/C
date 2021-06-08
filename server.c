@@ -1,7 +1,7 @@
 /***************************************************************************** 
-Copyright: 2014-2021,Radiant Solar Technology Co., Ltd.
+Copyright: 2014-2021,Hacker League Technology Co., Ltd.
 File name: server.c 
-Author: Lei.Zhang
+Author: Mango.Linux
 Description: This is a server with TCP protocol.
 Version: v0.0
 Date: 2021.06.04 
